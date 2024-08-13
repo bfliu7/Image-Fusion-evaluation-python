@@ -1,6 +1,6 @@
 # Image Fusion Evaluation For IVIF
 
-### 💡 if you want code for more metrics, click *[here]*!(https://github.com/bfliu7/ImageFusion-Evaluation)
+### 💡 if you want code for more metrics, click *[here]*(https://github.com/bfliu7/ImageFusion-Evaluation)!
 
 ## 📰 News
 * [2024-08-12] **Open-sourcing evaluation code with 8 metrics for infrared and visible image fusion!** 
